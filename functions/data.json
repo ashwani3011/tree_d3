@@ -1,0 +1,19 @@
+{
+  "name": "Level 1",
+  "children": [
+    {
+      "name": "Level 2 A",
+      "children": [
+        {
+          "name": "Level 3 A"
+        },
+        {
+          "name": "Level 3 B"
+        }
+      ]
+    },
+    {
+      "name": "level 2 B"
+    }
+  ]
+}
